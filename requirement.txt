@@ -1,5 +1,6 @@
 langchain-google-genai
 langchain
+langchain-community
 streamlit
 faiss-cpu 
 tiktoken
